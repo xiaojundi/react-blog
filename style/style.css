@@ -1,0 +1,7 @@
+.navbar-nav{
+	display: list-item !important;
+}
+
+.menu-bar form{
+	float:right;
+}
